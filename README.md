@@ -1,7 +1,7 @@
 # CantosCat
 React-Native application to manage music sheet. This app has been created for particular use and to learn the tecnology used.
 
-##Run the project:
+## Run the project:
 
 1. Clone the repository
 2. cd CantosCat
